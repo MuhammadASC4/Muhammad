@@ -1,0 +1,35 @@
+console.log("Pikachu");
+var pokemonhp = 35;
+var pokemonNum = 25;
+var pokemonType = ("Electric");
+var pokemonBestMove = ("Thunder");
+var pokemonLastEvo = false;
+var pokemonweight = ("6kg");
+var pokemonheight = ("0.4m");
+var pokemonattack = ("55");
+var pokemondefense = ('40');
+var pokemonspeed = ("90");
+
+console.log("Charizard");
+var pokemonhp = 78;
+var pokemonNum = 06;
+var pokemonType = ("Fire and Flying");
+var pokemonBestMove = ("Flare Blitz");
+var pokemonLastEvo = true;
+var pokemonweight = ("90.5 kg");
+var pokemonheight = ("1.7m");
+var pokemonattack = ("84");
+var pokemondefense = ('78');
+var pokemonspeed = ("100");
+
+console.log("Squirtle");
+var pokemonhp = 44;
+var pokemonNum = 07;
+var pokemonType = ("Water");
+var pokemonBestMove = ("Hydro Pump");
+var pokemonLastEvo = false;
+var pokemonweight = ("9 kg");
+var pokemonheight = ("0.5 m");
+var pokemonattack = ("48");
+var pokemondefense = ('65');
+var pokemonspeed = ("43");
